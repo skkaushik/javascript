@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#01a3a4;
+}
+
+#result{
+    border: 2px rgb(12, 12, 12) solid;
+    
+    text-align: center;
+    height: 100px;
+    width: 300px;
+    position: relative;
+    left: 525px;
+    margin: 5px;
+}
+.winner{
+    text-align: center;
+    /*  */
+}
+
+.division{
+display: flex;
+justify-content: center;
+}
+
+.player{
+    width: 400px;
+    height: 400px;
+    border: 2px rgb(11, 14, 7) solid;
+    text-align: center;
+}
+
+.output{
+    /* width: 40%;
+    height: 40%; */
+    /* border: 1px green solid; */
+    margin: auto;
+}
+.start{
+    /* display: inline-block; */
+    margin-top: 40px;
+    text-align: center;
+    height: 4rem;
+    
+}
